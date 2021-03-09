@@ -43,6 +43,7 @@ public class RunStatechart {
 			}
 			print(s);
 		}
+		scanner.close();
 		System.exit(0);
 	}
 
